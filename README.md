@@ -1,0 +1,2 @@
+# Uygulama İzinleri 1
+ 
